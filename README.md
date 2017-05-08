@@ -1,0 +1,2 @@
+# helpkitsetup
+automation script
